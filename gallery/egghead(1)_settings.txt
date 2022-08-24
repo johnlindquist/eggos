@@ -1,0 +1,13 @@
+{
+    "ddim_eta": 0.75,
+    "guidance_scale": 12,
+    "init_image": "/content/gdrive/MyDrive/AI/init_image/egghead/egghead.jpg",
+    "init_strength": 0.3,
+    "num_batch_images": 1000,
+    "sampler": "klms",
+    "samples_per_batch": 1,
+    "seed": 0,
+    "steps": 100,
+    "width": 384,
+    "height": 384
+}
